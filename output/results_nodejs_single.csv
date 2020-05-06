@@ -1,0 +1,6 @@
+"Benchmark","Mode","Threads","Score","Unit","Param: noProcesses","Param: numInserts"
+"insertNaive","avgt","1","0.001142","s/op","0","0"
+"insertHundredsOfChars","avgt","1","0.001246","s/op","0","0"
+"insertHundredsOfThousandsOfChars","avgt","1","0.019929","s/op","0","0"
+"insertTextAndImageAndDelete","avgt","1","0.012478","s/op","0","0"
+"insertTextAndImageAndDelete","avgt","1","0.016609","s/op","0","0"
